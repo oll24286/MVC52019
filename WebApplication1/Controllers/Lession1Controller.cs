@@ -12,14 +12,10 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             return View();
-        }
-
-        //protected override void HandleUnknownAction(string actionName)
-        //{
-        //    Response.Redirect("http://www.google.com");
-        //    base.HandleUnknownAction(actionName);
-        //}
-
-
-    }
-}
+            
+        }   
+       
+        
+    }       
+       
+}           
